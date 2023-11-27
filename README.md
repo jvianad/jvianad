@@ -1,4 +1,4 @@
-![](https://www.canva.com/design/DAFj4n9SR7M/sDkCOZnoy_rLMBS7BdFxDQ/edit?utm_content=DAFj4n9SR7M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![](https://res.cloudinary.com/hipns1/image/upload/v1701067416/v2wbltqxxxm7tx3zdzd6.png)
 
 
 Skills: JAVA / SPRINGBOOT / API REST / SQL / HTML / CSS / CICD / MICROSERVICIOS / DOCKER
