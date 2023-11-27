@@ -1,7 +1,6 @@
 ![](https://res.cloudinary.com/hipns1/image/upload/v1701067416/v2wbltqxxxm7tx3zdzd6.png)
 
 
-Skills: JAVA / SPRINGBOOT / API REST / SQL / HTML / CSS / CICD / MICROSERVICIOS / DOCKER
 
 
 
