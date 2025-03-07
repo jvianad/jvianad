@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m Jean👀 I’m interested in Music<br>🌱 I’m currently learning AWS<br>📫 How to reach me jeanvianademares@gmail.com
+👋 Hi, I’m Jean👀 I’m interested in Music<br>🌱 I’m currently learning AWS,Azure<br>📫 How to reach me jeanvianademares@gmail.com / +57 3132901690
 
 
 ## 🌐 Socials:
